@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+}
+
+input {
+  min-width: 50%;
+  padding: 10px;
+}
+
+span {
+  font-size: xx-large;
+  margin: 10px;
+  cursor: pointer;
+}
+
+#output {
+  font-size: x-large;
+  margin: 20px;
+  min-height: 30px;
+  background-color: skyblue;
+}
